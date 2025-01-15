@@ -1,4 +1,4 @@
-# Movie-Recommendation-System
+# ParetoPrinciple-based Recommendation System
 Initially started as a mini-project, it was extended for my grad school final Project at UMass submitted April, 2018.
 
 
