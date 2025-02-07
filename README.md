@@ -1,5 +1,5 @@
 # ParetoPrinciple-based Recommendation System
-Initially started as a mini-project, it was extended for my grad school final Project at UMass submitted April, 2018.
+Open sourcing my Master's Thesis at UMass submitted April, 2018. Initially started as a mini-project, it was extended as a thesis. Email me if you have questions, need additional material or for any details you'd like to discuss regarding this project.
 
 
 Title: 
